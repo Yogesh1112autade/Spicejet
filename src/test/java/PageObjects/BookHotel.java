@@ -1,5 +1,5 @@
 package PageObjects;
-
+//Hotel is booked for Yogesh autade
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
